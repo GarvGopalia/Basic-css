@@ -1,0 +1,11 @@
+#content {
+    height: 300px;
+    width: 100px;
+    background-color: black;
+}
+
+.contentbox {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
