@@ -1,0 +1,24 @@
+h2 {
+    color: #ffff00;
+}
+
+button {
+    color: blue;
+    background-color: crimson;
+
+}
+body {
+    background-color: rgb(191,34,115);
+}
+
+#Heading1 {
+    color: grey;
+}
+
+#Heading2 {
+    color: cadetblue;
+}
+
+.myclass {
+    color: darkmagenta;
+}

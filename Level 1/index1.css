@@ -1,0 +1,40 @@
+/* p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: red dotted underline;
+}
+
+#h1 {
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#h2 {
+    font-weight: bold;
+    font-family: Arial;
+
+}
+
+#h3 {
+    font-weight: bolder;
+    }
+
+a {
+    text-decoration: none;
+} */
+#one {
+    font-size: 25px;
+    line-height: normal;
+    text-transform: lowercase;
+}
+
+#three {
+    font-size: 10px;
+}
+
+#two {
+    font-size: 1px;
+}
