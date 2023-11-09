@@ -1,0 +1,65 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color:aqua;
+    border: 2px solid black;
+    display: inline-block;  
+}
+
+#box1 {
+     position: static; /*default position */
+    top:50px;
+    bottom:50px;
+}
+
+#box2 {
+    position: sticky; /*positioned based on user's scroll position */
+    top: 0px;
+    left: 20px;
+}
+
+#box3 {
+    position:absolute; /* positioned relative to its closest non-static ancestor */
+    top:500px;
+    left:20px;
+}
+
+#box4 {
+    position: fixed; /* positioned relative to brower */
+    top: 0px;
+}
+
+#box5 {
+    position: relative; /*element is relative to itself */
+    top:10px;
+    left:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* #box1 {
+    height: 100px;
+    width: 200px;
+    background-color: green;
+    font-size: 10px;
+}
+
+#box2 {
+    height: 50px;
+    width: 50px;
+    width: 30%;
+    background-color: yellow;
+    margin-left: 10%;
+    font-size: 2em;
+    width: 5rem;
+} */ 
+

@@ -1,0 +1,29 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color:aqua;
+    border: 2px solid black;
+    display: inline-block;  
+}
+
+#box1 {
+
+    background-image: url("tiger.jpg");
+    background-size: cover;
+}
+
+#box2 {
+    background-image: url("tiger.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#box3 {
+    background-image: url("tiger.jpg");
+    background-size: auto;
+}
+
+body{
+    background-image: url("tiger.jpg");
+    background-size: cover;
+}
